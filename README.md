@@ -2,17 +2,22 @@
 
 > Created by [Martin Stefanovic](https://www.linkedin.com/in/martinstefanovic).
 
+---
 
 ## Table of contents
 
+#### LEARNING
 - [Learning](#learning-platforms)
 - [Youtube channels](#youtube-channels)
 - [Freelancing](#freelancing)
 - [Code Editors](#code-editors)
+#### DESIGN
 - [Icons](#icons)
 - [Photos](#photos)
 - [Colors and gradients](#colors-and-gradients)
+- [Fonts](#fonts)
 
+---
 
 ### LEARNING PLATFORMS
 
@@ -82,10 +87,19 @@
 
 ### COLORS AND GRADIENTS
 
-| Channel | Description | 
+| Website | Description | 
 | ------- | ----------- | 
-| [DesignCourse](https://www.youtube.com/user/DesignCourse) | Web design, Frontend... | 
-| [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) | Frontend, Backend | 
-| [Ben Awad](https://www.youtube.com/user/99baddawg) | Frontend, Backend | 
+| [ColorsAndFonts](https://www.colorsandfonts.com/) | Color and typography resources. | 
+| [HtmlColorCodes](https://htmlcolorcodes.com/color-picker/) | Color picker | 
+| [CSS Gradient](https://cssgradient.io/) | Generate CSS gradient | 
+| [UI Gradients](https://uigradients.com/#CoolBlues) | Cool gradients | 
+
+[⬆ Back to top](#table-of-contents)
+
+### FONTS
+
+| Website | Description | 
+| ------- | ----------- | 
+| [Google Fonts](https://fonts.google.com/) | The best source of web fonts |
 
 [⬆ Back to top](#table-of-contents)
