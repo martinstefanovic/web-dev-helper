@@ -57,6 +57,7 @@ All web development resources that you will ever need! :wink:
 | [React](https://roadmap.sh/react) |
 | [VueJS](https://medium.com/js-dojo/roadmap-how-to-get-started-with-vuejs-afcf8f18d1f6) |
 | [DevOps](https://roadmap.sh/devops) |
+| [UI & UX](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb) |
 
 [⬆ Back to top](#table-of-contents)
 
