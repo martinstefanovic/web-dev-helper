@@ -1,6 +1,8 @@
-# All web development resources that you will ever need! :wink:
+# Web Developer Helper
 
-> Created by [Martin Stefanovic](https://www.linkedin.com/in/martinstefanovic).
+All web development resources that you will ever need! :wink:
+
+:sunglasses: Created by [Martin Stefanovic](https://www.linkedin.com/in/martinstefanovic).
 
 ---
 
