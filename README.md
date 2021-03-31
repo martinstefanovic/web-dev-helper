@@ -19,9 +19,11 @@
 - [Illustrations](#illustrations)
 #### CODING
 - [Code Editors](#code-editors)
-- Frontend frameworks and resources
-  - [Angular Resources](#angular-resources)
+- **Frontend frameworks and resources**
   - [UI Libraries](#ui-libraries)
+  - [Angular Resources](#angular-resources)
+  - [React Resources](#react-resources)
+
 #### OTHER
 - [Freelancing](#freelancing)
 - [Chrome extensions](#chrome-extensions)
@@ -173,6 +175,14 @@
 | [PrimeNG](https://www.primefaces.org/primeng/) | Angular UI Component Library |
 | [Dragula](https://valor-software.com/ng2-dragula/) | Drag and drop library |
 | [SortableJS](https://github.com/sortablejs/ngx-sortablejs) | Drag and drop, sort |
+
+[⬆ Back to top](#table-of-contents)
+
+### REACT RESOURCES
+
+| Website | Description | 
+| ------- | ----------- | 
+| [React Doc](https://reactjs.org/docs/getting-started.html) | Official documentation |
 
 [⬆ Back to top](#table-of-contents)
 
