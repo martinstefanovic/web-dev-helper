@@ -26,10 +26,11 @@ All web development resources that you will ever need! :wink:
 #### :desktop_computer: CODING 
 - [Developer tools](#developer-tools)
 - [APIs](#apis)
-- **Frontend frameworks and resources**
+- **Frontend**
   - [UI Libraries](#ui-libraries)
   - [Angular Resources](#angular-resources)
   - [React Resources](#react-resources)
+  - [Wordpress Resources](#wordpress-resources)
 
 #### :toolbox: OTHER 
 - [Freelancing](#freelancing)
@@ -218,6 +219,17 @@ All web development resources that you will ever need! :wink:
 | Website | Description | 
 | ------- | ----------- | 
 | [React Doc](https://reactjs.org/docs/getting-started.html) | Official documentation |
+
+[⬆ Back to top](#table-of-contents)
+
+### WORDPRESS RESOURCES
+
+| Website | Description | 
+| ------- | ----------- | 
+| [Advanced Custom Fields](https://www.advancedcustomfields.com/) | Full control of your WordPress edit screens & custom field data |
+| [Uber Menu](https://wpmegamenu.com/) | Advanced website menu |
+| [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) | Manage and organize columns in the posts... in the WordPress admin panel |
+| [Ajax Pagination](https://wordpress.org/plugins/malinky-ajax-pagination/) | Load paged content with Ajax throughout your WordPress site |
 
 [⬆ Back to top](#table-of-contents)
 
