@@ -6,11 +6,11 @@
 
 ## Table of contents
 
-#### LEARNING
-- [Developer roadmaps](#developer-roadmaps)
+#### LEARNING :open_book:
+- [Developer roadmaps :hammer_and_wrench:](#developer-roadmaps)
 - [Learning](#learning-platforms)
 - [Youtube channels](#youtube-channels)
-#### DESIGN
+#### DESIGN :paintbrush:
 - [UI Inspiration](#ui-inspiration)
 - [Icons](#icons)
 - [Photos](#photos)
@@ -18,7 +18,7 @@
 - [Fonts](#fonts)
 - [Design Tools](#design-tools)
 - [Illustrations](#illustrations)
-#### CODING
+#### CODING :desktop_computer:
 - [Developer tools](#developer-tools)
 - [APIs](#apis)
 - **Frontend frameworks and resources**
@@ -26,7 +26,7 @@
   - [Angular Resources](#angular-resources)
   - [React Resources](#react-resources)
 
-#### OTHER
+#### OTHER :toolbox:
 - [Freelancing](#freelancing)
 - [Chrome extensions](#chrome-extensions)
 
