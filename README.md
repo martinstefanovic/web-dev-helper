@@ -10,7 +10,7 @@
 - [Freelancing](#freelancing)
 
 
-## Learning platforms
+### LEARNING PLATFORMS
 
 | Website | Description | Price |
 | ------- | ----------- | ----- |
@@ -21,7 +21,7 @@
 
 [⬆ Back to top](#table-of-contents)
 
-## Youtube channels
+### YOUTUBE CHANNELS
 
 | Channel | Description | 
 | ------- | ----------- | 
@@ -31,7 +31,7 @@
 
 [⬆ Back to top](#table-of-contents)
 
-## Freelancing
+## FREELANCING
 
 | Website |
 | ------- |
