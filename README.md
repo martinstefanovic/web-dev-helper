@@ -2,6 +2,8 @@
 
 All web development resources that you will ever need! :wink:
 
+:heavy_exclamation_mark: If you are new to web development that's okay, just take a look at developer roadmaps section and take your road :heavy_exclamation_mark:
+
 :sunglasses: Created by [Martin Stefanovic](https://www.linkedin.com/in/martinstefanovic).
 
 ---
