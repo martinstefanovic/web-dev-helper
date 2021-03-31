@@ -9,9 +9,12 @@
 - [Youtube channels](#youtube-channels)
 - [Freelancing](#freelancing)
 - [Code Editors](#code-editors)
+- [Icons](#icons)
+- [Photos](#photos)
+- [Colors and gradients](#colors-and-gradients)
 
 
-### LEARNING PLATFORMS
+### :point_right: LEARNING PLATFORMS
 
 | Website | Description | Price |
 | ------- | ----------- | ----- |
@@ -22,7 +25,7 @@
 
 [⬆ Back to top](#table-of-contents)
 
-### YOUTUBE CHANNELS
+### :point_right: YOUTUBE CHANNELS
 
 | Channel | Description | 
 | ------- | ----------- | 
@@ -32,7 +35,7 @@
 
 [⬆ Back to top](#table-of-contents)
 
-### FREELANCING
+### :point_right: FREELANCING
 
 | Website |
 | ------- |
@@ -43,7 +46,7 @@
 
 [⬆ Back to top](#table-of-contents)
 
-### CODE EDITORS
+### :point_right: CODE EDITORS
 
 | Website | Price | 
 | ------- | ----------- | 
@@ -51,3 +54,38 @@
 | [Sublime Text](https://www.sublimetext.com/) | Free | 
 | [Notepad++](https://notepad-plus-plus.org/downloads/) | Free | 
 | [WebStorm](https://www.jetbrains.com/webstorm/download/#section=windows) | Paid | 
+
+[⬆ Back to top](#table-of-contents)
+
+### :point_right: ICONS
+
+| Website | Description | Price |
+| ------- | ----------- | ----- |
+| [Ionicons](https://ionicons.com/) | From ionic library | Free |
+| [Iconfinder](https://www.iconfinder.com/) | | Free, Paid |
+| [Flaticons](https://www.flaticon.com/) | | Free, Paid |
+| [css.gg](https://css.gg/) | Open-source | Free |
+| [IconsSVG](https://iconsvg.xyz/) | Quick customizable icons | Free | 
+| [Bootstrap icons](https://icons.getbootstrap.com/) | From Bootstrap library | Free | 
+
+[⬆ Back to top](#table-of-contents)
+
+### :point_right: PHOTOS
+
+| Website | Price | 
+| ------- | ----------- | 
+| [Pexels](https://www.pexels.com/) | Free | 
+| [Unsplash](https://unsplash.com/) | Free | 
+| [Freephotos](https://freephotos.cc/en) | Free | 
+
+[⬆ Back to top](#table-of-contents)
+
+### :point_right: COLORS AND GRADIENTS
+
+| Channel | Description | 
+| ------- | ----------- | 
+| [DesignCourse](https://www.youtube.com/user/DesignCourse) | Web design, Frontend... | 
+| [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) | Frontend, Backend | 
+| [Ben Awad](https://www.youtube.com/user/99baddawg) | Frontend, Backend | 
+
+[⬆ Back to top](#table-of-contents)
