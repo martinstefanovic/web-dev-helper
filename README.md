@@ -1,4 +1,4 @@
-# All web development resources that you will ever need!
+# :point_right: All web development resources that you will ever need! :wink:
 
 > Created by [Martin Stefanovic](https://www.linkedin.com/in/martinstefanovic).
 
@@ -9,7 +9,6 @@
 #### LEARNING
 - [Learning](#learning-platforms)
 - [Youtube channels](#youtube-channels)
-- [Freelancing](#freelancing)
 #### DESIGN
 - [UI Inspiration](#ui-inspiration)
 - [Icons](#icons)
@@ -20,6 +19,11 @@
 - [Illustrations](#illustrations)
 #### CODING
 - [Code Editors](#code-editors)
+- Frontend frameworks and resources
+  - [Angular Resources](#angular)
+#### OTHER
+- [Freelancing](#freelancing)
+- [Chrome extensions](#chrome-extensions)
 
 ---
 
