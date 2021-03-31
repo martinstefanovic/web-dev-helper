@@ -21,7 +21,7 @@
 - [Code Editors](#code-editors)
 - Frontend frameworks and resources
   - [Angular Resources](#angular-resources)
-  - [UI Libraries](ui-libraries)
+  - [UI Libraries](#ui-libraries)
 #### OTHER
 - [Freelancing](#freelancing)
 - [Chrome extensions](#chrome-extensions)
