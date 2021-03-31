@@ -10,12 +10,15 @@
 - [Learning](#learning-platforms)
 - [Youtube channels](#youtube-channels)
 - [Freelancing](#freelancing)
-- [Code Editors](#code-editors)
 #### DESIGN
 - [Icons](#icons)
 - [Photos](#photos)
 - [Colors and gradients](#colors-and-gradients)
 - [Fonts](#fonts)
+- [Design Tools](#design-tools)
+- [Illustrations](#illustrations)
+#### CODING
+- [Code Editors](#code-editors)
 
 ---
 
@@ -96,10 +99,31 @@
 
 [⬆ Back to top](#table-of-contents)
 
+### ILLUSTRATIONS
+
+| Website | Price |
+| ------- | ----- | 
+| [UnDraw](https://undraw.co/) | Free |
+| [Freepik](https://www.freepik.com/) | Free, Paid | 
+| [DrawKit](https://www.drawkit.io/) | Free | 
+
+[⬆ Back to top](#table-of-contents)
+
 ### FONTS
 
 | Website | Description | 
 | ------- | ----------- | 
 | [Google Fonts](https://fonts.google.com/) | The best source of web fonts |
+
+[⬆ Back to top](#table-of-contents)
+
+### DESIGN TOOLS
+
+| Website | Description | Price |
+| ------- | ----------- | ----- |
+| [Adobe XD](https://www.adobe.com/products/xd.html) | Web design, Mobile design, Prototyping... | Free, Paid |
+| [Figma](https://www.figma.com/) | Web design, Mobile design, Prototyping... | Free, Paid |
+| Adobe Illustrator | Best for illustrations. | Free trial, Paid |
+| Adobe Photoshop | Best for photo editing. | Free trial, Paid |
 
 [⬆ Back to top](#table-of-contents)
