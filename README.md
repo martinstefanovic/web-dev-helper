@@ -20,7 +20,8 @@
 #### CODING
 - [Code Editors](#code-editors)
 - Frontend frameworks and resources
-  - [Angular Resources](#angular)
+  - [Angular Resources](#angular-resources)
+  - [UI Libraries](ui-libraries)
 #### OTHER
 - [Freelancing](#freelancing)
 - [Chrome extensions](#chrome-extensions)
@@ -157,5 +158,30 @@
 | [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) | Capture a screenshot of your current page |
 | [Muzli 2](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc?hl=en) | The freshest links about design |
 | [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en) | For debugging and profiling Angular applications |
+
+[⬆ Back to top](#table-of-contents)
+
+## FRONTEND FRAMEWORKS AND RESOURCES
+
+### ANGULAR RESOURCES
+
+| Website | Description | 
+| ------- | ----------- | 
+| [Angular Doc](https://angular.io/docs) | Official documentation |
+| [Angular CLI](https://cli.angular.io/) | Official documentation |
+| [Nebular](https://akveo.github.io/nebular/) | Customizable UI Kit, Auth & Security |
+| [PrimeNG](https://www.primefaces.org/primeng/) | Angular UI Component Library |
+| [Dragula](https://valor-software.com/ng2-dragula/) | Drag and drop library |
+| [SortableJS](https://github.com/sortablejs/ngx-sortablejs) | Drag and drop, sort |
+
+[⬆ Back to top](#table-of-contents)
+
+### UI LIBRARIES
+
+| Website | Description | 
+| ------- | ----------- | 
+| [Bootstrap](https://getbootstrap.com/) | Most popular front-end open source toolkit |
+| [Tailwind](https://tailwindcss.com/) | A utility-first CSS framework |
+| [MaterializeCSS](https://materializecss.com/breadcrumbs.html) | Set of libraries/framework built to conform to the standard material design system. |
 
 [⬆ Back to top](#table-of-contents)
