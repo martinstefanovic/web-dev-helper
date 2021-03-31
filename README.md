@@ -8,7 +8,7 @@ All web development resources that you will ever need! :wink:
 
 ---
 
-## Table of contents
+## TABLE OF CONTENTS
 
 #### :open_book: LEARNING 
 - [Developer roadmaps :hammer_and_wrench:](#developer-roadmaps)
