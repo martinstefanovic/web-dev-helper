@@ -11,6 +11,7 @@
 - [Youtube channels](#youtube-channels)
 - [Freelancing](#freelancing)
 #### DESIGN
+- [UI Inspiration](#ui-inspiration)
 - [Icons](#icons)
 - [Photos](#photos)
 - [Colors and gradients](#colors-and-gradients)
@@ -54,7 +55,7 @@
 
 [⬆ Back to top](#table-of-contents)
 
-### :point_right: CODE EDITORS
+### CODE EDITORS
 
 | Website | Price | 
 | ------- | ----------- | 
@@ -62,6 +63,17 @@
 | [Sublime Text](https://www.sublimetext.com/) | Free | 
 | [Notepad++](https://notepad-plus-plus.org/downloads/) | Free | 
 | [WebStorm](https://www.jetbrains.com/webstorm/download/#section=windows) | Paid | 
+
+[⬆ Back to top](#table-of-contents)
+
+### UI INSPIRATION
+
+| Website |
+| ------- |
+| [Driibbble](https://dribbble.com/) |
+| [Behance](https://www.behance.net/) |
+| [Awwwards](https://www.awwwards.com/) |
+| [Screenlane](https://screenlane.com/?ref=uimovement) |
 
 [⬆ Back to top](#table-of-contents)
 
@@ -125,5 +137,21 @@
 | [Figma](https://www.figma.com/) | Web design, Mobile design, Prototyping... | Free, Paid |
 | Adobe Illustrator | Best for illustrations. | Free trial, Paid |
 | Adobe Photoshop | Best for photo editing. | Free trial, Paid |
+
+[⬆ Back to top](#table-of-contents)
+
+### CHROME EXTENSIONS
+
+| Extension | Description | 
+| ------- | ----------- | 
+| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) | Identify web technologies |
+| [Fonts Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Identify fonts from any website |
+| [Color Zilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) | Get a color from any point in your browser |
+| [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) | Validate and view JSON documents |
+| [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | Various web developer tools |
+| [Clockify Time Tracker](https://chrome.google.com/webstore/detail/clockify-time-tracker/pmjeegjhjdlccodhacdgbgfagbpmccpe) | Track time from anywhere on the web |
+| [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) | Capture a screenshot of your current page |
+| [Muzli 2](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc?hl=en) | The freshest links about design |
+| [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en) | For debugging and profiling Angular applications |
 
 [⬆ Back to top](#table-of-contents)
