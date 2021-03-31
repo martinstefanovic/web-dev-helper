@@ -14,7 +14,7 @@
 - [Colors and gradients](#colors-and-gradients)
 
 
-### :point_right: LEARNING PLATFORMS
+### LEARNING PLATFORMS
 
 | Website | Description | Price |
 | ------- | ----------- | ----- |
@@ -25,7 +25,7 @@
 
 [⬆ Back to top](#table-of-contents)
 
-### :point_right: YOUTUBE CHANNELS
+### YOUTUBE CHANNELS
 
 | Channel | Description | 
 | ------- | ----------- | 
@@ -35,7 +35,7 @@
 
 [⬆ Back to top](#table-of-contents)
 
-### :point_right: FREELANCING
+### FREELANCING
 
 | Website |
 | ------- |
@@ -57,7 +57,7 @@
 
 [⬆ Back to top](#table-of-contents)
 
-### :point_right: ICONS
+### ICONS
 
 | Website | Description | Price |
 | ------- | ----------- | ----- |
@@ -70,7 +70,7 @@
 
 [⬆ Back to top](#table-of-contents)
 
-### :point_right: PHOTOS
+### PHOTOS
 
 | Website | Price | 
 | ------- | ----------- | 
@@ -80,7 +80,7 @@
 
 [⬆ Back to top](#table-of-contents)
 
-### :point_right: COLORS AND GRADIENTS
+### COLORS AND GRADIENTS
 
 | Channel | Description | 
 | ------- | ----------- | 
