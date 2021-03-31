@@ -10,8 +10,9 @@ All web development resources that you will ever need! :wink:
 
 #### :open_book: LEARNING 
 - [Developer roadmaps :hammer_and_wrench:](#developer-roadmaps)
-- [Learning](#learning-platforms)
+- [Learning platforms](#learning-platforms)
 - [Youtube channels](#youtube-channels)
+- [JavaScript](#javascript)
 #### :paintbrush: DESIGN 
 - [UI Inspiration](#ui-inspiration)
 - [Icons](#icons)
@@ -56,6 +57,17 @@ All web development resources that you will ever need! :wink:
 | [React](https://roadmap.sh/react) |
 | [VueJS](https://medium.com/js-dojo/roadmap-how-to-get-started-with-vuejs-afcf8f18d1f6) |
 | [DevOps](https://roadmap.sh/devops) |
+
+[⬆ Back to top](#table-of-contents)
+
+### JAVASCRIPT
+
+| Website |
+| ------- |
+| [CodeCademy - Introduction to JS Course](https://www.codecademy.com/learn/introduction-to-javascript) |
+| [Free Code Camp](https://www.freecodecamp.org/learn/) |
+| [Eloquent JavaScript](https://eloquentjavascript.net/) |
+| [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) |
 
 [⬆ Back to top](#table-of-contents)
 
