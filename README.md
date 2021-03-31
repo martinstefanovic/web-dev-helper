@@ -50,7 +50,9 @@
 | ------- |
 | [Frontend](https://roadmap.sh/frontend) |
 | [Backend](https://roadmap.sh/backend) |
+| [Angular](https://github.com/sulco/angular-developer-roadmap) |
 | [React](https://roadmap.sh/react) |
+| [VueJS](https://medium.com/js-dojo/roadmap-how-to-get-started-with-vuejs-afcf8f18d1f6) |
 | [DevOps](https://roadmap.sh/devops) |
 
 [⬆ Back to top](#table-of-contents)
@@ -209,6 +211,8 @@
 | [Bootstrap](https://getbootstrap.com/) | Most popular front-end open source toolkit |
 | [Tailwind](https://tailwindcss.com/) | A utility-first CSS framework |
 | [MaterializeCSS](https://materializecss.com/breadcrumbs.html) | Set of libraries/framework built to conform to the standard material design system. |
+| [Bulma](https://bulma.io/) | Free, open source framework that provides ready-to-use frontend components |
+| [Semantic UI](https://semantic-ui.com/) | Free, open source framework that provides ready-to-use frontend components |
 
 [⬆ Back to top](#table-of-contents)
 
