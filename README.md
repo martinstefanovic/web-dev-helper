@@ -1,4 +1,4 @@
-# :point_right: All web development resources that you will ever need! :wink:
+# All web development resources that you will ever need! :wink:
 
 > Created by [Martin Stefanovic](https://www.linkedin.com/in/martinstefanovic).
 
@@ -7,6 +7,7 @@
 ## Table of contents
 
 #### LEARNING
+- [Developer roadmaps](#developer-roadmaps)
 - [Learning](#learning-platforms)
 - [Youtube channels](#youtube-channels)
 #### DESIGN
@@ -18,7 +19,8 @@
 - [Design Tools](#design-tools)
 - [Illustrations](#illustrations)
 #### CODING
-- [Code Editors](#code-editors)
+- [Developer tools](#developer-tools)
+- [APIs](#apis)
 - **Frontend frameworks and resources**
   - [UI Libraries](#ui-libraries)
   - [Angular Resources](#angular-resources)
@@ -38,6 +40,18 @@
 | [Udemy](https://www.udemy.com/) | All types of courses. | Paid |
 | [Skillshare](https://www.skillshare.com/) | All types of courses. | Paid |
 | [Linkedin Learning](https://www.linkedin.com/learning/) | All types of courses. | Free trial, Paid |
+| [CodeCademy](https://www.codecademy.com/) | All types of courses. | Free, Paid |
+
+[⬆ Back to top](#table-of-contents)
+
+### DEVELOPER ROADMAPS
+
+| Developer |
+| ------- |
+| [Frontend](https://roadmap.sh/frontend) |
+| [Backend](https://roadmap.sh/backend) |
+| [React](https://roadmap.sh/react) |
+| [DevOps](https://roadmap.sh/devops) |
 
 [⬆ Back to top](#table-of-contents)
 
@@ -62,7 +76,7 @@
 
 [⬆ Back to top](#table-of-contents)
 
-### CODE EDITORS
+### DEVELOPER TOOLS
 
 | Website | Price | 
 | ------- | ----------- | 
@@ -70,6 +84,7 @@
 | [Sublime Text](https://www.sublimetext.com/) | Free | 
 | [Notepad++](https://notepad-plus-plus.org/downloads/) | Free | 
 | [WebStorm](https://www.jetbrains.com/webstorm/download/#section=windows) | Paid | 
+| [Postman](https://www.postman.com/) | Free | 
 
 [⬆ Back to top](#table-of-contents)
 
@@ -94,6 +109,7 @@
 | [css.gg](https://css.gg/) | Open-source | Free |
 | [IconsSVG](https://iconsvg.xyz/) | Quick customizable icons | Free | 
 | [Bootstrap icons](https://icons.getbootstrap.com/) | From Bootstrap library | Free | 
+| [Material icons](https://material.io/resources/icons/?icon=accessible&style=baseline) | Material icons | Free | 
 
 [⬆ Back to top](#table-of-contents)
 
@@ -193,5 +209,16 @@
 | [Bootstrap](https://getbootstrap.com/) | Most popular front-end open source toolkit |
 | [Tailwind](https://tailwindcss.com/) | A utility-first CSS framework |
 | [MaterializeCSS](https://materializecss.com/breadcrumbs.html) | Set of libraries/framework built to conform to the standard material design system. |
+
+[⬆ Back to top](#table-of-contents)
+
+### APIs
+
+| Website | Description | 
+| ------- | ----------- | 
+| [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Free to use fake online REST API for testing and prototyping |
+| [Lorem Picsum](https://picsum.photos/) | The Lorem Ipsum for photos |
+| [OpenWeather](https://openweathermap.org/guide) | Free weather API from |
+| [Quotes](http://quotes.rest/) | More than 1 million+ quotes |
 
 [⬆ Back to top](#table-of-contents)
