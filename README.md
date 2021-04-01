@@ -26,6 +26,7 @@ All web development resources that you will ever need! :wink:
 #### :desktop_computer: CODING 
 - [Developer tools](#developer-tools)
 - [APIs](#apis)
+- [Coding challenges](#coding-challenges)
 - **Frontend**
   - [UI Libraries](#ui-libraries)
   - [Angular Resources](#angular-resources)
@@ -253,5 +254,20 @@ All web development resources that you will ever need! :wink:
 | [Lorem Picsum](https://picsum.photos/) | The Lorem Ipsum for photos |
 | [OpenWeather](https://openweathermap.org/guide) | Free weather API from |
 | [Quotes](http://quotes.rest/) | More than 1 million+ quotes |
+
+[⬆ Back to top](#table-of-contents)
+
+### CODING CHALLENGES
+
+| Website | Description | 
+| ------- | ----------- | 
+| [Frontend Mentor](https://www.frontendmentor.io/) | Real-world HTML, CSS and JavaScript challenges |
+| [Flexbox Froggy](https://flexboxfroggy.com/) | Flexbox game |
+| [Flexbox Defense](http://www.flexboxdefense.com/) | Flexbox game |
+| [CSS Grid Garden](https://cssgridgarden.com/) | CSS Grid game |
+| [CSS Diner](https://flukeout.github.io/) | CSS Selectors |
+| [Learning GIT Branching](https://learngitbranching.js.org/) | Git |
+| [CSS Battle](https://cssbattle.dev/) | CSS |
+| [HEX Invaders](http://www.hexinvaders.com/) | Learn HEX Colors |
 
 [⬆ Back to top](#table-of-contents)
