@@ -100,13 +100,14 @@ All web development resources that you will ever need! :wink:
 
 ### DEVELOPER TOOLS
 
-| Website | Price | 
-| ------- | ----------- | 
-| [Visual Studio Code](https://code.visualstudio.com/) | Free | 
-| [Sublime Text](https://www.sublimetext.com/) | Free | 
-| [Notepad++](https://notepad-plus-plus.org/downloads/) | Free | 
-| [WebStorm](https://www.jetbrains.com/webstorm/download/#section=windows) | Paid | 
-| [Postman](https://www.postman.com/) | Free | 
+| Website | Description |  Price |
+| ------- | ----------- | ------ |
+| [Visual Studio Code](https://code.visualstudio.com/) | Coding | Free | 
+| [Sublime Text](https://www.sublimetext.com/) | Coding | Free | 
+| [Notepad++](https://notepad-plus-plus.org/downloads/) | Coding | Free | 
+| [WebStorm](https://www.jetbrains.com/webstorm/download/#section=windows) | Coding | Paid | 
+| [Postman](https://www.postman.com/) | For APIs | Free | 
+| [Koala](http://koala-app.com/) | Less, Sass compiler | Free | 
 
 [⬆ Back to top](#table-of-contents)
 
@@ -275,15 +276,17 @@ All web development resources that you will ever need! :wink:
 
 ### HTML, CSS, SCSS
 
+HTML and CSS are very simple, once you learn this go to SCSS to speed up writing styles. 
+Don`t forget to check some CSS games on [Coding Challenges](#coding-challenges) section.
+
 | Website | Description | 
 | ------- | ----------- | 
-| [Frontend Mentor](https://www.frontendmentor.io/) | Real-world HTML, CSS and JavaScript challenges |
-| [Flexbox Froggy](https://flexboxfroggy.com/) | Flexbox game |
-| [Flexbox Defense](http://www.flexboxdefense.com/) | Flexbox game |
-| [CSS Grid Garden](https://cssgridgarden.com/) | CSS Grid game |
-| [CSS Diner](https://flukeout.github.io/) | CSS Selectors |
-| [Learning GIT Branching](https://learngitbranching.js.org/) | Git |
-| [CSS Battle](https://cssbattle.dev/) | CSS |
-| [HEX Invaders](http://www.hexinvaders.com/) | Learn HEX Colors |
+| [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) | HTML, CSS, Responsive Web Design |
+| [w3schools](https://www.w3schools.com/) | HTML, CSS etc. |
+| [CSS Grid](https://learncssgrid.com/) | CSS Grid |
+| [Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | Flexbox |
+| [Media queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/) | Responsive design |
+| [Data attributes](https://css-tricks.com/a-complete-guide-to-data-attributes/) | You will need data attributes to store some data |
+| [SCSS](https://sass-lang.com/guide) | Sass lets you use features that don't exist in CSS yet like variables, nesting, mixins... |
 
 [⬆ Back to top](#table-of-contents)
