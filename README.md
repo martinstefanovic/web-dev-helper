@@ -17,6 +17,7 @@ All web development resources that you will ever need! :wink:
 - [HTML, CSS & SCSS](#html-css-scss)
 - [JavaScript](#jquery)
 - [jQuery](#javascript)
+- [UI/UX](#ui-ux)
 #### :paintbrush: DESIGN 
 - [UI Inspiration](#ui-inspiration)
 - [Icons](#icons)
@@ -38,6 +39,7 @@ All web development resources that you will ever need! :wink:
 #### :toolbox: OTHER 
 - [Freelancing](#freelancing)
 - [Chrome extensions](#chrome-extensions)
+- [Organization](#organization)
 
 ---
 
@@ -76,6 +78,7 @@ All web development resources that you will ever need! :wink:
 | [Free Code Camp](https://www.freecodecamp.org/learn/) |
 | [Eloquent JavaScript](https://eloquentjavascript.net/) |
 | [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) |
+| [HTML DOM](https://htmldom.dev/) |
 
 [⬆ Back to top](#table-of-contents)
 
@@ -86,6 +89,7 @@ All web development resources that you will ever need! :wink:
 | [Learn jQuery from Scratch](https://css-tricks.com/lodge/learn-jquery/) |
 | [jQuery Learning Center](https://learn.jquery.com/) |
 | [w3schools jQuery](https://www.w3schools.com/jquery/default.asp) |
+| [jQuery Cheet Sheet](https://websitesetup.org/jquery-cheat-sheet/) |
 
 [⬆ Back to top](#table-of-contents)
 
@@ -120,6 +124,7 @@ All web development resources that you will ever need! :wink:
 | [WebStorm](https://www.jetbrains.com/webstorm/download/#section=windows) | Coding | Paid | 
 | [Postman](https://www.postman.com/) | For APIs | Free | 
 | [Koala](http://koala-app.com/) | Less, Sass compiler | Free | 
+| [GIT](https://git-scm.com/downloads) | Git is a free and open source distributed version control system | Free | 
 
 [⬆ Back to top](#table-of-contents)
 
@@ -198,6 +203,16 @@ All web development resources that you will ever need! :wink:
 
 [⬆ Back to top](#table-of-contents)
 
+### ORGANIZATION
+
+| Website | Description | Price |
+| ------- | ----------- | ----- |
+| [Clockify](https://clockify.me/) | Track time from anywhere — all data is synced online. | Free |
+| [Trello](https://trello.com/) | Collaboration tool that organizes your projects into boards. | Free, Paid |
+| [Slack](https://slack.com/intl/en-rs/) | Slack is like a chatroom for your whole team | Free, Paid |
+
+[⬆ Back to top](#table-of-contents)
+
 ### CHROME EXTENSIONS
 
 | Extension | Description | 
@@ -268,6 +283,7 @@ All web development resources that you will ever need! :wink:
 | [Lorem Picsum](https://picsum.photos/) | The Lorem Ipsum for photos |
 | [OpenWeather](https://openweathermap.org/guide) | Free weather API from |
 | [Quotes](http://quotes.rest/) | More than 1 million+ quotes |
+| [News API](https://newsapi.org/) | Retrieve articles and breaking news headlines from news sources and blogs... |
 
 [⬆ Back to top](#table-of-contents)
 
@@ -302,5 +318,15 @@ Don`t forget to check some CSS games on [Coding Challenges](#coding-challenges) 
 | [Media queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/) | Responsive design |
 | [Data attributes](https://css-tricks.com/a-complete-guide-to-data-attributes/) | You will need data attributes to store some data |
 | [SCSS](https://sass-lang.com/guide) | Sass lets you use features that don't exist in CSS yet like variables, nesting, mixins... |
+
+[⬆ Back to top](#table-of-contents)
+
+### UI/UX
+
+| Website | Description | 
+| ------- | ----------- | 
+| [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/) | Colors |
+| 101 UX Principles (SR: 101 princip za dobar UX dizajn) | User Experience - Book |
+| The Principles of Beautiful Web Design (SR: Principi lepog dizajna) | User Interface - Book |
 
 [⬆ Back to top](#table-of-contents)
