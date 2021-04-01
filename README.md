@@ -15,7 +15,8 @@ All web development resources that you will ever need! :wink:
 - [Learning platforms](#learning-platforms)
 - [Youtube channels](#youtube-channels)
 - [HTML, CSS & SCSS](#html-css-scss)
-- [JavaScript](#javascript)
+- [JavaScript](#jquery)
+- [jQuery](#javascript)
 #### :paintbrush: DESIGN 
 - [UI Inspiration](#ui-inspiration)
 - [Icons](#icons)
@@ -67,6 +68,7 @@ All web development resources that you will ever need! :wink:
 [⬆ Back to top](#table-of-contents)
 
 ### JAVASCRIPT
+**Next step:** [jQuery](#jquery), [Angular](#angular), [React](#react), [VueJS](#vue-js)...
 
 | Website |
 | ------- |
@@ -74,6 +76,16 @@ All web development resources that you will ever need! :wink:
 | [Free Code Camp](https://www.freecodecamp.org/learn/) |
 | [Eloquent JavaScript](https://eloquentjavascript.net/) |
 | [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) |
+
+[⬆ Back to top](#table-of-contents)
+
+### JQUERY
+
+| Website |
+| ------- |
+| [Learn jQuery from Scratch](https://css-tricks.com/lodge/learn-jquery/) |
+| [jQuery Learning Center](https://learn.jquery.com/) |
+| [w3schools jQuery](https://www.w3schools.com/jquery/default.asp) |
 
 [⬆ Back to top](#table-of-contents)
 
@@ -278,7 +290,7 @@ All web development resources that you will ever need! :wink:
 
 HTML and CSS are very simple, once you learn this go to SCSS to speed up writing styles. 
 Pay special attention to the flexbox.
-Don`t forget to check some CSS games on [Coding Challenges](#coding-challenges) section.
+Don`t forget to check some CSS games on [Coding Challenges](#coding-challenges) section.  
 **Next step:** [Javascript](#javascript)
 
 | Website | Description | 
