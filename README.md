@@ -321,7 +321,7 @@ Don`t forget to check some CSS games on [Coding Challenges](#coding-challenges) 
 
 [⬆ Back to top](#table-of-contents)
 
-### UI/UX
+### UI, UX
 
 | Website | Description | 
 | ------- | ----------- | 
