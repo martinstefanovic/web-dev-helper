@@ -277,7 +277,9 @@ All web development resources that you will ever need! :wink:
 ### HTML, CSS, SCSS
 
 HTML and CSS are very simple, once you learn this go to SCSS to speed up writing styles. 
+Pay special attention to the flexbox.
 Don`t forget to check some CSS games on [Coding Challenges](#coding-challenges) section.
+**Next step:** [Javascript](#javascript)
 
 | Website | Description | 
 | ------- | ----------- | 
