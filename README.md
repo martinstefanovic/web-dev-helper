@@ -125,6 +125,12 @@ All web development resources that you will ever need! :wink:
 | [Postman](https://www.postman.com/) | For APIs | Free | 
 | [Koala](http://koala-app.com/) | Less, Sass compiler | Free | 
 | [GIT](https://git-scm.com/downloads) | Git is a free and open source distributed version control system | Free | 
+| [Clippy](https://bennettfeely.com/clippy/) | The clip-path property allows you to make complex shapes in CSS | Free | 
+| [CSS Effects](https://emilkowalski.github.io/css-effects-snippets/) | Click on the animation to copy the css | Free | 
+| [CSS Gradient generator](https://cssgradient.io/) | CSS Gradient | Free | 
+| [Icomoon](https://icomoon.io/) | Gradient SVG icons to FONT | Free |
+| [CSS Separator generator](https://wweb.dev/resources/css-separator-generator) | Separator | Free |
+| [Fancy border radius generator](https://9elements.github.io/fancy-border-radius/#30.30.35.30--.) |  | Free |
 
 [⬆ Back to top](#table-of-contents)
 
@@ -181,6 +187,7 @@ All web development resources that you will ever need! :wink:
 | [UnDraw](https://undraw.co/) | Free |
 | [Freepik](https://www.freepik.com/) | Free, Paid | 
 | [DrawKit](https://www.drawkit.io/) | Free | 
+| [Humaaans](https://www.humaaans.com/) | Free, Paid | 
 
 [⬆ Back to top](#table-of-contents)
 
@@ -228,8 +235,6 @@ All web development resources that you will ever need! :wink:
 | [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en) | For debugging and profiling Angular applications |
 
 [⬆ Back to top](#table-of-contents)
-
-## FRONTEND FRAMEWORKS AND RESOURCES
 
 ### ANGULAR RESOURCES
 
@@ -284,6 +289,7 @@ All web development resources that you will ever need! :wink:
 | [OpenWeather](https://openweathermap.org/guide) | Free weather API from |
 | [Quotes](http://quotes.rest/) | More than 1 million+ quotes |
 | [News API](https://newsapi.org/) | Retrieve articles and breaking news headlines from news sources and blogs... |
+| [Random User](https://randomuser.me/) | Random User Generator |
 
 [⬆ Back to top](#table-of-contents)
 
