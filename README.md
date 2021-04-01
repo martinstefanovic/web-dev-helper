@@ -14,6 +14,7 @@ All web development resources that you will ever need! :wink:
 - [Developer roadmaps :hammer_and_wrench:](#developer-roadmaps)
 - [Learning platforms](#learning-platforms)
 - [Youtube channels](#youtube-channels)
+- [HTML, CSS & SCSS](#html-css-scss)
 - [JavaScript](#javascript)
 #### :paintbrush: DESIGN 
 - [UI Inspiration](#ui-inspiration)
@@ -258,6 +259,21 @@ All web development resources that you will ever need! :wink:
 [⬆ Back to top](#table-of-contents)
 
 ### CODING CHALLENGES
+
+| Website | Description | 
+| ------- | ----------- | 
+| [Frontend Mentor](https://www.frontendmentor.io/) | Real-world HTML, CSS and JavaScript challenges |
+| [Flexbox Froggy](https://flexboxfroggy.com/) | Flexbox game |
+| [Flexbox Defense](http://www.flexboxdefense.com/) | Flexbox game |
+| [CSS Grid Garden](https://cssgridgarden.com/) | CSS Grid game |
+| [CSS Diner](https://flukeout.github.io/) | CSS Selectors |
+| [Learning GIT Branching](https://learngitbranching.js.org/) | Git |
+| [CSS Battle](https://cssbattle.dev/) | CSS |
+| [HEX Invaders](http://www.hexinvaders.com/) | Learn HEX Colors |
+
+[⬆ Back to top](#table-of-contents)
+
+### HTML, CSS, SCSS
 
 | Website | Description | 
 | ------- | ----------- | 
